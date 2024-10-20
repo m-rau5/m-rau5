@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm a Software Engineer/Cybersecurity Nerd working towards my Cybersecurity Masters' degree at WUT.
+
+
+
+<!-- ![LeetCode Stats](https://leetcode.card.workers.dev/Raul_Mois?theme=dark&font=baloo&extension=null) -->
