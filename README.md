@@ -18,6 +18,6 @@ Here are some ideas to get you started:
 I'm a Software Engineer/Cybersecurity Nerd working towards my Cybersecurity Masters' degree at WUT.
 
 
-Check out my <a href="https://m-rau5.github.io/portfolio/" target="_blank">portfolio.</a>
+Want a more visual look? Check out my <a href="https://m-rau5.github.io/portfolio/" target="_blank">portfolio website</a>.
 
 <!-- ![LeetCode Stats](https://leetcode.card.workers.dev/Raul_Mois?theme=dark&font=baloo&extension=null) -->
