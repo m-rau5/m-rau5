@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm a Software Engineer/Cybersecurity Nerd working towards my Cybersecurity Masters' degree at WUT.
+I'm a Software Engineer/Cybersecurity Nerd working towards my Cybersecurity Masters' degree at WUT (also love ML stuff lol).
 
 
 Want a more visual look? Check out my <a href="https://m-rau5.github.io/portfolio/" target="_blank">portfolio website</a>.
