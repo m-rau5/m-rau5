@@ -20,4 +20,4 @@ I'm a Software Engineer/Cybersecurity Nerd working towards my Cybersecurity Mast
 
 Want a more visual look? Check out my <a href="https://m-rau5.github.io/portfolio/" target="_blank">portfolio website</a>.
 
-![LeetCode Stats](https://leetcode.card.workers.dev/Raul_Mois?theme=dark&font=baloo&extension=null)
+![LeetCode Stats](https://leetcard.jacoblin.cool/Raul_Mois?theme=dark&font=Zen%20Kurenaido)
